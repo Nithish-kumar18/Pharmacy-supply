@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: authorization-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 2065729
+Implementation-Vendor-Id: com.cognizant.authorization
+Build-Jdk: 1.8.0_311
+Implementation-URL: https://spring.io/projects/spring-boot/authorizati
+ on-service
+Created-By: Maven Integration for Eclipse
+
